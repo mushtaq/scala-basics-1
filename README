@@ -1,0 +1,9 @@
+- Install JDK-1.7u51+
+- Install git 1.9.0+
+- Install IntelliJ Idea community edition 13.0.2+
+- From within Idea, install latest Scala plugin
+- Clone this repo: git clone https://github.com/mushtaq/scala-basics-1.git
+- cd scala-basics-1
+- ./sbt gen-idea (will take couple of minutes to complete)
+- From within idea, open project and select scala-basics-1 folder
+- Install scala 2.10.3 from http://www.scala-lang.org/download/2.10.3.html
