@@ -7,3 +7,4 @@
 - ./sbt gen-idea (will take couple of minutes to complete)
 - From within idea, open project and select scala-basics-1 folder
 - Install scala 2.10.3 from http://www.scala-lang.org/download/2.10.3.html
+- Install SourceTree from http://www.sourcetreeapp.com/
